@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=fangzhengjin&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
 <!--
-**fangzhengjin/fangzhengjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uptonking/uptonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
