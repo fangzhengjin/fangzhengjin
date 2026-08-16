@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![ZhengJin GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzhengjin&show_icons=true)
+![ZhengJin GitHub stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangzhengjin&layout=compact)
+![Top Langs](./profile/top-langs.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangzhengjin/fangzhengjin/output/github-contribution-grid-snake-dark.svg">
