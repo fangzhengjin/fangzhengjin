@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ZhengJin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 129, Total Commits  (last year) : 152, Total PRs: 111, Total Issues: 164, Contributed to (last year): 35</desc>
+        <desc id="descId">Total Stars Earned: 129, Total Commits  (last year) : 152, Total PRs: 111, Total Issues: 166, Contributed to (last year): 36</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.99234986475822;
+        stroke-dashoffset: 89.98037607216826;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >164</text>
+      >166</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >35</text>
+      >36</text>
     </g>
   </g>
     </svg>
